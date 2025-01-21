@@ -1,4 +1,3 @@
-
 // Load Wi-Fi library
 #include <WiFi.h>
 
